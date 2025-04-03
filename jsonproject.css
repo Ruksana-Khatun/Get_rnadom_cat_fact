@@ -1,0 +1,30 @@
+div{
+    text-align: center;
+    margin: auto;
+    height:600px;
+    width: 600px;
+    color: green;
+    background-color:lightgreen;
+   
+}
+#result{
+   height: 400px;
+   width: 500px;
+  
+}
+.class{
+    margin: auto;
+    height: 450px;
+    width: 600px;
+    background-color:lightgreen;
+   
+}
+button{
+    height: 35px;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: 700;
+}
+body{
+    background-color: lightgray;
+}
